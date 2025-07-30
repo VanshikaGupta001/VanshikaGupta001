@@ -90,8 +90,8 @@ I'm an AI/ML enthusiast, currently working on cutting-edge projects involving in
 
 ## 📈 GitHub Stats
 
-![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanshikaGupta001&show_icons=true&theme=react-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaGupta001&layout=compact&theme=react-dark)
+![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanshikaGupta001&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaGupta001&layout=compact&theme=radical)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshikaGupta001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
