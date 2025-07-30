@@ -8,8 +8,10 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/vanshika-gupta-836006321/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="/README.md" title="CodeForces Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="/README.md" title="CodeForces Profile"><img width="22" src="images/code-forces.svg"> CodeForces</a></code>
+  <code><a href="https://github.com/VanshikaGupta001/" title="Github Profile"><img width="22" src="images/github.svg"> Instagram</a></code>
   <code><a href="https://www.instagram.com/iitz_vanshika/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+
 </h5>
 
 
