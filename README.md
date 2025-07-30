@@ -6,6 +6,13 @@
   </a>
 </h1>
 
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/vanshika-gupta-836006321/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="/README.md" title="CodeForces Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/iitz_vanshika/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+
+
 <p align="center">
   <img src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAd/hello-world.gif" alt="Hello World" width="300"/>
 </p>
@@ -51,20 +58,10 @@ I'm an AI/ML enthusiast, currently working on cutting-edge projects involving in
 
 ## 📈 GitHub Stats
 
-![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanshetty25&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanshetty25&layout=compact&theme=radical)
-
----
-
-📬 **Let’s Connect**
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/naman-v-shetty)  
-- 💻 [GitHub](https://github.com/namanshetty25)  
-- 🐦 [X/Twitter](https://x.com/namanshetty2510)  
+![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanshikaGupta001&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaGupta001&layout=compact&theme=radical)
+ 
 
 🤝 Always up for collaborations and brainstorming bold ideas!
 
 ---
-
-_"The best way to predict the future is to invent it."_  
-— Alan Kay
