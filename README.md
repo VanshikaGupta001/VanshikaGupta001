@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VanshikaGupta001.VanshikaGupta001">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+TThis+is+VANSHIKA+GUPTA....;Nice+to+meet+you!&center=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;+This+is+VANSHIKA+GUPTA....;Nice+to+meet+you!&center=true&size=25">
   </a>
 </h1>
 
@@ -12,15 +12,16 @@
 
 🚀 **About Me**
 
-I'm a curious explorer driven by **innovation and impact**. Whether it's building AI tools, diving into quantum computing, or crafting interactive tech experiences, I thrive on pushing boundaries and connecting ideas across domains. I don’t just code to build—I build to **solve real problems creatively and fast**.
+I'm an AI/ML enthusiast, currently working on cutting-edge projects involving intelligent agents, computer vision, and applied machine learning. My GitHub is a space where I experiment, build, and open-source tools and research-driven solutions. I thrive on pushing boundaries and connecting ideas across domains. I don’t just code to build—I build to **solve real problems creatively and fast**.
 
 ---
 
 🧠 **What I'm Currently Building**
 
-- 🖥️ **Automated Desktop Assistant** – Intelligent automation for everyday desktop tasks  
-- 🎬 **Gen-AI Video Editor** – Next-gen video editing powered by generative AI  
-- 🧪 **Quantum ML Projects** – Hybrid models using PennyLane  
+- 🧠 Autonomous AI agents (planning–execution–reflection loop)
+- 🛰️ Real-time change detection using satellite/drone imagery
+- 🧑‍⚖️ Intelligent courtroom simulation with LLMs
+- 🤖 Deep learning-based Virtual Try-On and emotion-aware avatars
 
 ---
 
