@@ -18,29 +18,29 @@
   <img src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAd/hello-world.gif" alt="Hello World" width="300"/>
 </p>
 
-🚀 **About Me**
+**About Me**
 
 I'm an AI/ML enthusiast, currently working on cutting-edge projects involving intelligent agents, computer vision, and applied machine learning. My GitHub is a space where I experiment, build, and open-source tools and research-driven solutions. I thrive on pushing boundaries and connecting ideas across domains. I don’t just code to build—I build to **solve real problems creatively and fast**.
 
 ---
 
-🧠 **What I'm Currently Building**
+**What I'm Currently Building**
 
-- 🧠 Autonomous AI agents (planning–execution–reflection loop)
-- 🛰️ Real-time change detection using satellite/drone imagery
-- 🧑‍⚖️ Intelligent courtroom simulation with LLMs
-- 🤖 Deep learning-based Virtual Try-On and emotion-aware avatars
+-  Autonomous AI agents (planning–execution–reflection loop)
+-  Real-time change detection using satellite/drone imagery
+-  Intelligent courtroom simulation with LLMs
+-  Deep learning-based Virtual Try-On and emotion-aware avatars
 
 ---
 
-🔍 **What I'm Exploring**
+**What I'm Exploring**
 
-- 🧠 Advanced ML/DL workflows
-- 📚 DSA (Data Structures & Algorithms)
-- 🧠 Vision-Language Models (VLMs)
-- 🛡️ Cybersecurity & Ethical Hacking
-- 🤖 Agentic RAG Systems
-- 🛰️ Quantum Communication
+-  Advanced ML/DL workflows
+-  DSA (Data Structures & Algorithms)
+-  Vision-Language Models (VLMs)
+-  Cybersecurity & Ethical Hacking
+-  Agentic RAG Systems
+-  Quantum Communication
 
 ---
 
@@ -96,11 +96,11 @@ I'm an AI/ML enthusiast, currently working on cutting-edge projects involving in
 
 ## 📈 GitHub Stats
 
-![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanshikaGupta001&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaGupta001&layout=compact&theme=radical)
+![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanshikaGupta001&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaGupta001&layout=compact&theme=transparent)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshikaGupta001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-🤝 Always up for collaborations and brainstorming bold ideas!
+🤝 Always up for building some crazy projects and brainstorming ideas!
 
 ---
