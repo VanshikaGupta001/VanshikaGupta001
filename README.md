@@ -94,10 +94,10 @@ I'm an AI/ML enthusiast, currently working on cutting-edge projects involving in
 </p>
 <hr>
 
-## 📈 GitHub Stats
+<h2>📈 GitHub Stats</h2>
 
-![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanshikaGupta001&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaGupta001&layout=compact&theme=transparent)
+![Vanshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanshikaGupta001&show_icons=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanshikaGupta001&layout=compact&theme=prussian)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshikaGupta001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
