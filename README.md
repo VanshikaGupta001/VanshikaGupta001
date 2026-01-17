@@ -10,7 +10,7 @@
   <code><a href="https://www.linkedin.com/in/vanshika-gupta-836006321/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://codeforces.com/profile/Mikasa_Ackerma" title="CodeForces Profile"><img width="22" src="images/code-forces.svg"> CodeForces</a></code>
   <code><a href="https://www.instagram.com/iitz_vanshika/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <img src="images/letscatch.gif" alt="Hello" width="200"/>
+  
 </h5>
 
 <p align="center">
@@ -101,5 +101,5 @@ I'm an AI/ML enthusiast, currently working on cutting-edge projects involving in
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshikaGupta001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 🤝 Always up for building some crazy projects and brainstorming ideas!
-
+<img src="images/letscatch.gif" alt="Hello" width="200"/>
 ---
