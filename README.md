@@ -101,5 +101,6 @@ I'm an AI/ML enthusiast, currently working on cutting-edge projects involving in
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshikaGupta001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 🤝 Always up for building some crazy projects and brainstorming ideas!
-<img src="images/letscatch.gif" alt="Hello" width="200"/>
+
+<img src="images/letscatch.gif" alt="Hello" width="300"/>
 ---
