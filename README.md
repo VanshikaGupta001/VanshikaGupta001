@@ -8,16 +8,17 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/vanshika-gupta-836006321/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="/README.md" title="CodeForces Profile"><img width="22" src="images/code-forces.svg"> CodeForces</a></code>
-  <code><a href="https://github.com/VanshikaGupta001/" title="Github Profile"><img width="22" src="images/github.svg"> Instagram</a></code>
+  <code><a href="https://codeforces.com/profile/Mikasa_Ackerma" title="CodeForces Profile"><img width="22" src="images/code-forces.svg"> CodeForces</a></code>
   <code><a href="https://www.instagram.com/iitz_vanshika/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 
 </h5>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/kjXMU4dl8lAAAAAd/hello-world.gif" alt="Hello World" width="300"/>
+  <img src="images/letscode.gif" alt="Hello World" width="300"/>
 </p>
-
+<p align="center">
+  <img src="images/letscatch.gif" alt="Hello" width="300"/>
+</p>
 **About Me**
 
 I'm an AI/ML enthusiast, currently working on cutting-edge projects involving intelligent agents, computer vision, and applied machine learning. My GitHub is a space where I experiment, build, and open-source tools and research-driven solutions. I thrive on pushing boundaries and connecting ideas across domains. I don’t just code to build—I build to **solve real problems creatively and fast**.
