@@ -10,16 +10,14 @@
   <code><a href="https://www.linkedin.com/in/vanshika-gupta-836006321/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://codeforces.com/profile/Mikasa_Ackerma" title="CodeForces Profile"><img width="22" src="images/code-forces.svg"> CodeForces</a></code>
   <code><a href="https://www.instagram.com/iitz_vanshika/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-
+  <img src="images/letscatch.gif" alt="Hello" width="300"/>
 </h5>
 
 <p align="center">
-  <img src="images/letscode.gif" alt="Hello World" width="300"/>
+  <img src="images/letscode.gif" alt="Hello World" width="300" height="40"/>
 </p>
-<p align="center">
-  <img src="images/letscatch.gif" alt="Hello" width="300"/>
-</p>
-**About Me**
+
+About Me
 
 I'm an AI/ML enthusiast, currently working on cutting-edge projects involving intelligent agents, computer vision, and applied machine learning. My GitHub is a space where I experiment, build, and open-source tools and research-driven solutions. I thrive on pushing boundaries and connecting ideas across domains. I don’t just code to build—I build to **solve real problems creatively and fast**.
 
