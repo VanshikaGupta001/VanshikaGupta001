@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/vanshika-gupta-836006321/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://codeforces.com/profile/Mikasa_Ackerma" title="CodeForces Profile"><img width="22" src="images/code-forces.svg"> CodeForces</a></code>
-  <code><a href="https://www.instagram.com/iitz_vanshika/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/vanshika_gupta0612/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
   
 </h5>
 
